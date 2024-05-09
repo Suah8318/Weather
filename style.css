@@ -63,6 +63,7 @@ body {
 }
 
 input {
+  color: black;
   outline: none;
   background-color: rgb(228, 226, 226);
   border-radius: 3vh;
